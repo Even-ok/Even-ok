@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 
 
  😄 Welcome to chat with me!!
+ 
  ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
